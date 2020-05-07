@@ -1,4 +1,4 @@
-# NJSContact - NodeJS Contact
+# a NodeJS Contact Form App
 
 Node server for processing contact forms from external sources
 
@@ -16,7 +16,7 @@ Node server for processing contact forms from external sources
 Fancier:
 
 ```html
-<form method="post" action="http://verisign.email/adam@tondoinc.com" enctype="multipart/form-data">
+<form method="post" action="http://my.mailgun.domain/my@email" enctype="multipart/form-data">
 	<input type="hidden" name="_subject" value="This is a test form" />
 
 	<label for="_from">Email</label>		<input type="email" name="_from" />			<br>
