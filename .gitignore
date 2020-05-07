@@ -4,3 +4,5 @@ production.yml
 vendor
 package-lock.json
 config.yml
+.DS_Store
+.idea
