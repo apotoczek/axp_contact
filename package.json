@@ -1,0 +1,20 @@
+{
+  "name": "njscontact",
+  "version": "1.1",
+  "description": "Custom NodeJS contact form processor inspired by formspree.io",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "private": true,
+  "dependencies": {
+    "handlebars": "4.0.5",
+    "indecent": "1.0.1",
+    "lodash": "4.13.1",
+    "request": "2.72.0",
+    "restify": "4.1.1"
+  },
+  "devDependencies": {
+    "semistandard": "*"
+  }
+}

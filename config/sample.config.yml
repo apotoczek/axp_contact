@@ -1,0 +1,9 @@
+# config/config.yml (rename from sample)
+
+# Whitelisted emails
+emails:
+  - first@email
+  - second@email
+mailgun:
+  url: https://api.mailgun.net/v3/<YOUR_MAILGUN_ACCOUNT>/messages
+  key: <redacted>
